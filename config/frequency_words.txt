@@ -4,6 +4,9 @@
 DeepSeek
 梁文锋
 
+英雄联盟
+gala
+
 华为
 鸿蒙
 HarmonyOS
